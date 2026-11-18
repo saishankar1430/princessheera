@@ -1,0 +1,6 @@
+{
+  "name": "A Royal Fairytale for Heeru",
+  "description": "An interactive princess-themed romantic fairytale kingdom dedicated to Heeru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
